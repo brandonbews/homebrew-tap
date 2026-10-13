@@ -1,1 +1,1 @@
-# brandonbews-homebrew-tap
+# homebrew-tap
