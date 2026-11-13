@@ -1,6 +1,6 @@
 cask "easyvox" do
-  version "0.1.0"
-  sha256 "a6fcda2c7e38f559db861b23573e7cb169e4103591a9ae32dca97df4a6f0b674"
+  version "0.2.0"
+  sha256 "fdbc672a07f0690b84db82176c9ae3279fe4c03cdf114131005497dc7d7c9dbc"
 
   url "https://github.com/brandonbews/easyvox/releases/download/v#{version}/EasyVox-#{version}.dmg"
   name "EasyVox"
